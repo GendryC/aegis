@@ -1,3 +1,3 @@
-# ρægis - security system
-# Rho Aegis is a seccurity system
+# agis - security system
+# Aegis is a seccurity system
 * 
